@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Python</b>
-  - [CyberTool: Comprehensive Cybersecurity Analysis Suite](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [CyberTool: Comprehensive Cybersecurity Analysis Suite](https://github.com/AndreLlorente/CyberTool)
 
 
 <h2>📜 Certifications </h2>
