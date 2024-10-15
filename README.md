@@ -9,6 +9,7 @@
 
 <h2>📜 Certifications </h2>
 
+- [Comptia Security+]([https://www.credly.com/badges/fbfaea66-58c5-49c3-885a-b617ad41e539/linked_in_profile](https://www.credly.com/badges/27e8a9f7-80de-48c8-838b-a79bce3bd619))
 - [Google Cybersecurity Certificate](https://www.credly.com/badges/fbfaea66-58c5-49c3-885a-b617ad41e539/linked_in_profile)
 
 
